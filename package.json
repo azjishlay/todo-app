@@ -1,0 +1,24 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "A simple TODO list app using Node.js, Express and MySQL",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lijasminej/todo-app.git"
+  },
+  "author": "Yogasaikrishna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lijasminej/todo-app/issues"
+  },
+  "homepage": "https://github.com/lijasminej/todo-app#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mysql": "^2.11.1"
+  }
+}
